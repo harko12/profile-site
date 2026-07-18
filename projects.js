@@ -2,7 +2,7 @@ const projects = [
     {
         name: 'Homes And Land',
         writtenIn: 'Vue front end, Laravel + InertiaJS and Elastic back end',
-        description: 'National website for Newpoint Media Group.  I built the initial prototype, then continued as a main contributer up through May 2026',
+        description: 'National website for Newpoint Media Group.  Built the initial prototype from a pdf spec, then continued as a main contributer up through May 2026',
         futurePlans: null,
         url: "https://www.homesandland.com",
         gitUrl: []
@@ -10,7 +10,7 @@ const projects = [
     {
         name: 'Magic Eight Ball',
         writtenIn: 'Vue front end, ASP.NET core backend, Docker image running on ECS',
-        description: 'Quick version online version of the Magic Eight Ball.  Currently it uses the standard responses.',
+        description: 'Quick online version of the Magic Eight Ball.  Currently it uses the standard responses.',
         futurePlans: "I'm considering setting up an LLM to make some more variety of answers, but constrain them to the limited space of the eight ball.",
         url: "http://18.218.23.64:8081",
         gitUrl: ["https://github.com/harko12/MagicEightBall"]
