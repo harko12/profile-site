@@ -58,6 +58,11 @@ header {
     height: 32px;
 }
 
+h1 {
+    font-weight: inherit;
+    font-size: inherit;
+}
+
 h2 {
     text-align: center;
     width: 100%;

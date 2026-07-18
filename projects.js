@@ -50,7 +50,7 @@ projects.forEach((p,i) => {
         p.url ? `
             <div class="link-line">
                 <div class="link-line-icon">
-                    <img src="images/Link-Icon-PNG-Photo-32-32.png" />
+                    <img alt="link icon" src="images/Link-Icon-PNG-Photo-32-32.png" />
                 </div>
                 <div>
                     <a href="${p.url}" target="_blank">${p.url}</a>
@@ -66,7 +66,7 @@ projects.forEach((p,i) => {
                     <div class="centered-text"></div>
             <div class="link-line">
                 <div class="link-line-icon">
-                    <img src="images/GitHub_Invertocat_Black-32.png" />
+                    <img alt="github invertocat icon" src="images/GitHub_Invertocat_Black-32.png" />
                 </div>
                 <div>
                     <a href="${u}" target="_blank">${u}</a>
