@@ -5,7 +5,7 @@ const projects = [
         description: 'National website for Newpoint Media Group.  I built the initial prototype, then continued as a main contributer up through May 2026',
         futurePlans: null,
         url: "https://www.homesandland.com",
-        gitUrl: ["https://github.com/harko12/MagicEightBall"]
+        gitUrl: []
     },
     {
         name: 'Magic Eight Ball',
